@@ -1,6 +1,72 @@
 .container {
-    width: 100px;
+    width: 1200px;
+    height: 750px;
+    background-color: rgb(208, 198, 240);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.sub-container {
+    width: 1100px;
+    height: 700px;
+    background-color: azure;
+}
+.list {
+    width: 1100px;
+    height: 60px;
+    background-color:blanchedalmond;
+    display: flex;
+}
+.customer {
+    width:1100px;
+    height: 700px;
+    background-color: aqua; 
+}
+.customer1 {
+    width:1100px;
+    height: 640px;
+    background-color: palevioletred;
+    display: flex;
+}
+.dental {
+    width:60px;
+    height:60px;
+    background-color: black;
+}
+.list-customer {
+    width: 1040px;
+    height: 60px;
+    background-color: blue;
+}
+.first {
+    width: 60px;
+    height: 640px;
+    background-color: aquamarine;
+}
+.second {
+    width: 250px;
+    height: 640px;
+    background-color: blueviolet;
+}
+.third {
+    width: 790px;
+    height: 640px;
+    background-color: brown;
+
+}
+.row {
+    width: 790px;
+    height: 100px;
+    background-color: pink;
+}
+.row1 {
+    width: 790px;
     height: 300px;
-    
+    background-color:peru ;
+}
+.row2 {
+    width: 790px;
+    height: 240px;
+    background-color: paleturquoise;
 
 }

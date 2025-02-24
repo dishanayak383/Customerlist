@@ -1,10 +1,10 @@
 import React from "react";
-import Customerlist from "./Customerlist.jsx";
+import {Customerlist} from "./Customerlist.jsx";
 
 
 export default {
-    title:"Customerlist",
-    Compmonent:Customerlist,
+    title:"Components/Customerlist",
+    compmonent:Customerlist,
 };
-
-export const Default = () => <Customerlist/>;
+const Template=(args)=><Customerlist {...args}/>;
+export const customerlist =Template.bind()
