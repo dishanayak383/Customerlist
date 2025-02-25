@@ -14,8 +14,8 @@
 .list {
     width: 1100px;
     height: 60px;
-    background-color:blanchedalmond;
     display: flex;
+ 
 }
 .customer {
     width:1100px;
@@ -40,7 +40,24 @@
 .list-customer {
     width: 1040px;
     height: 60px;
-    background-color: blue;
+    display: flex;
+}
+.list1 {
+    width: 600px;
+    height: 60px;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+}
+.list2 {
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    display: flex;
+}
+.list3 {
+    width: 200px;
+    height: 60px;
 }
 .first {
     width: 60px;
